@@ -13,13 +13,12 @@
         <h2>About the App</h2>
         <p>Are You Alive is a mobile app designed to help you stay connected with your loved ones. Check in regularly to let them know you're safe and sound.</p>
       </section>
-      <section class="screenshots">
+      <!-- <section class="screenshots">
         <h2>Screenshots</h2>
         <div class="screenshot-grid">
           <img src="/screenshots/AreYouAlive.png" alt="Screenshot 1" />
-          <!-- Add more screenshots if available -->
         </div>
-      </section>
+      </section> -->
     </main>
   </div>
 </template>
